@@ -10,7 +10,7 @@ Should run on any modern Python (3.6+)
 
 ## Usage
 
-```icloud_to_vaultwarden.py [-h] -i INPUT [-o OUTPUT]```
+```python3 ./icloud_to_vaultwarden.py [-h] -i INPUT [-o OUTPUT]```
 
 INPUT must be a valid file exported from Safari (it is checked for headers), output defaults to `` if not specified.
 
